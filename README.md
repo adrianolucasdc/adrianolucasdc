@@ -26,9 +26,9 @@
 - 💼 Currently working as a **Junior Full Stack Developer** at **Soma Processamento e Serviços Contábeis** (Goiânia, Brazil).
 - 🎓 **B.Sc. in Software Engineering** from **UNIALFA** (Graduated Dec 2025).
 - 🛠️ Hands-on experience with **Java (Spring Boot)**, **Python (FastAPI / Odoo)**, **Node.js (Fastify / Express)**, and **React / Next.js**.
-- ⚙️ Focused on backend engineering, asynchronous messaging (**RabbitMQ**), SQL query optimization (**PostgreSQL**), web scraping, noSQL (**MongoDb**, and **AI / LLM** workflow automation.
+- ⚙️ Focused on backend engineering, asynchronous messaging (**RabbitMQ**), SQL query optimization (**PostgreSQL**), web scraping, noSQL (**MongoDb**), and **AI / LLM** workflow automation.
 - 🌎 **Languages:** Portuguese (Native) | English (B1 - Intermediate).
-- 📫 Reach me at: **adrianocaixeta5@gmail.com**
+- 📫 Reach me at: **contato.adrianocaixeta@gmail.com**
 
 ---
 
