@@ -92,12 +92,3 @@
 - 🖥️ **Infrastructure & Active Directory Telemetry** — Real-time server and network monitoring dashboard built with **React 19, Node.js, PowerShell, and Active Directory**.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/adrianolucasdc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianolucasdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Adriano's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolucasdc&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-  </a>
-</div>
